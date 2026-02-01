@@ -1,1 +1,1 @@
-# odin-recipes
+Building basic recipe Website, in this lesson im already aplying the basics of git, html and css knowledge. # odin-recipes
